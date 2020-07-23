@@ -1,4 +1,4 @@
-# STM32 Waveshaper Distortion
+# STM32 Waveshaper Distortion Effect
 
 I realized a waveshaper on the STM32 in order to create a distortion audio effect based in a I2S input / ouput audio stream.
 
